@@ -1,37 +1,6 @@
-h1{
-color: aquamarine;
-background-color: black;
-text-align: center;
+.heading{color: blue;
+         font-size: 30px;
+
 }
-h2{
-    color: blue;
-    background-color: yellow;
-    text-align: center;
-    }
-    p{
-        color: green;
-        background-color: white;
-        text-align: justify;
-        }
-        .container{
-            width: 80%;
-            margin: 40px auto;
-            background-color: #f0f0f0;
-            padding: 20px;
-            }
-            .box{
-                background-color: #f0f0f0;
-                padding: 20px;
-                margin: 20px;
-                }
-                \end{code}
-                <h1>Welcome to my website</h1>
-                <div class="container">
-                <h2>About me</h2>
-
-        
-                <p>I am a web developer and designer. I have a passion for creating beautiful and functional
-                websites. I have experience in HTML, CSS, JavaScript, and React. I am always looking
-                to improve my skills and learn new technologies.</p>
-
-                
+h1{color: aqua;
+}
